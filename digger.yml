@@ -1,0 +1,33 @@
+
+kitName: digger
+
+icon: stone_pickaxe
+
+
+menuPosition: 3
+
+cost: 100
+
+permCost: 150
+
+details:
+- '&aBury Your Opponents'
+- '&aWith This Kit'
+- '&aWith The Pickaxe'
+- '&aAnd The Shovel'
+
+
+
+items:
+- stone_pickaxe 1 efficiency:1 unbreaking:1
+- stone_shovel 1 efficiency:1 unbreaking:1 
+
+
+
+potionEffects:
+- haste 60 1 
+
+
+
+
+
