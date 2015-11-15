@@ -1,0 +1,29 @@
+
+kitName: enderknight
+
+icon: ender_pearl
+
+
+menuPosition: 5
+
+cost: 200
+
+permCost: 250
+
+details:
+- '&aThis Kit Has Ender Pearls'
+- '&aWhich Allows You To'
+- '&aTeleport Around The Map'
+- '&aAnd Kill Enemies'
+
+
+
+items:
+- ender_pearl 16 protection:1
+- stone_sword 1 knockback:1
+- leather_boots 1 featherfall:1  
+
+
+
+potionEffects:
+- speed 30 2 
