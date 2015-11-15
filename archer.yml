@@ -1,0 +1,30 @@
+
+kitName: archer
+
+icon: bow
+
+
+menuPosition: 2
+
+cost: 100
+
+permCost: 150
+
+details:
+- '&aSnipe Your Enemies'
+- '&aInto The Void With'
+- '&aThe Bow That Is In'
+- '&aThis Kit!'
+
+
+
+items:
+- bow 1 power:1 punch:1
+- arrow 20 power:1
+- wood_sword knockback:1 
+
+
+
+potionEffects:
+- speed 60 1 
+
