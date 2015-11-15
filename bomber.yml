@@ -1,0 +1,32 @@
+
+kitName: bomber
+
+icon: tnt
+
+
+menuPosition: 6
+
+cost: 200
+
+permCost: 250 
+
+details:
+- '&aBlow Up The Competition'
+- '&aWith This Kit!'
+- '&aThis Kit Comes With'
+- '&aFire And TNT!'
+
+
+
+items:
+- tnt 20 protection:1
+- flint_and_steel 1 knockback:1
+- leather_boots 1 blast_protection:1
+- redstone_block 2 protection:1 
+
+
+
+potionEffects:
+- speed 90 2 
+
+
