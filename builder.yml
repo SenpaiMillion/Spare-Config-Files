@@ -1,0 +1,28 @@
+
+kitName: builder
+
+icon: brick
+
+
+menuPosition: 4
+
+cost: 200
+
+permCost: 250
+
+details:
+- '&aBob The Builder'
+- '&aAll Over The Map'
+- '&aAnd Build Your'
+- '&aWay To Victory!'
+
+
+
+items:
+- cobblestone 32 unbreaking:1 
+- stone_pickaxe 1 unbreaking:1
+
+
+
+potionEffects:
+- haste 60 1 
